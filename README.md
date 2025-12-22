@@ -12,8 +12,12 @@ Analyze any GitHub repository in seconds – see **code quality, test coverage, 
 ---
 
 ## 📹 Demo Video
-![Demo](https://github.com/user-attachments/assets/6f93758d-bf46-4559-9e38-f0fbb7aed79b)
+See the tool in action:  
 
+![Demo](https://github.com/user-attachments/assets/a817ca31-af9a-41eb-96ee-c50e0fbd98a6)
+
+
+---
 
 ## 🖥️ Features
 - **Automatic README summary**  
@@ -32,10 +36,49 @@ Analyze any GitHub repository in seconds – see **code quality, test coverage, 
 ---
 
 ## 📦 Installation
-'''bash
+git clone https://github.com/yourusername/RepoAnalyzer.git
+cd RepoAnalyzer
+pip install -r requirements.txt
 
--git clone https://github.com/yourusername/RepoAnalyzer.git
--cd RepoAnalyzer
--pip install -r requirements.txt
 ---
-##ff
+
+## 🏃How to Run
+
+-Enter a GitHub repository URL (e.g., https://github.com/psf/requests)
+
+-Choose Beginner or Advanced mode
+
+-Click Run Analysis
+
+-See summary, dashboard, languages, and file-level insights
+
+---
+
+## 🛠️ Contributing
+
+-Pull requests are welcome! If you want to add:
+
+-New language support
+
+-More analysis metrics
+
+-Better GUI visuals
+
+---
+
+## ⭐ Tips for Getting the Most Out of This Tool
+
+-Works best with Python repositories, but detects other languages too
+
+-Use Advanced mode for deep file-level analysis
+
+-Add this repo to your PATH to run from any directory
+
+---
+
+## ⚖️ License
+
+This project is licensed under the MIT License – see LICENSE
+ for details.
+
+ ---
