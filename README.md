@@ -13,9 +13,8 @@ Analyze any GitHub repository in seconds – see **code quality, test coverage, 
 ---
 
 ## 📹 Demo Video
-See the tool in action:  
+![Demo](https://github.com/user-attachments/assets/6f93758d-bf46-4559-9e38-f0fbb7aed79b)
 
-![Demo Video](Demo.mp4)  
 
 ## 🖥️ Features
 - **Automatic README summary**  
