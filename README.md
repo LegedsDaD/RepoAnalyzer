@@ -1,4 +1,3 @@
-# RepoAnalyzer
 # RepoAnalyzer 🛠️
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
@@ -33,37 +32,9 @@ Analyze any GitHub repository in seconds – see **code quality, test coverage, 
 ---
 
 ## 📦 Installation
+''bash
 git clone https://github.com/yourusername/RepoAnalyzer.git
 cd RepoAnalyzer
 pip install -r requirements.txt
 
 
-##🏃How to Run
-python github_analyzer.py
-
-
-Enter a GitHub repository URL (e.g., https://github.com/psf/requests)
-
-Choose Beginner or Advanced mode
-
-Click Run Analysis
-
-See summary, dashboard, languages, and file-level insights
-
-
-##🛠️ Contributing
-
-Pull requests are welcome! If you want to add:
-
-New language support
-
-More analysis metrics
-
-Better GUI visuals
-
-…feel free to contribute and give this project a ⭐ if it helps you!
-
-##⚖️ License
-
-This project is licensed under the MIT License – see LICENSE
- for details.
