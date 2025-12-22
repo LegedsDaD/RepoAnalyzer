@@ -34,8 +34,8 @@ Analyze any GitHub repository in seconds – see **code quality, test coverage, 
 ## 📦 Installation
 '''bash
 
-git clone https://github.com/yourusername/RepoAnalyzer.git
-cd RepoAnalyzer
-pip install -r requirements.txt
-
-
+-git clone https://github.com/yourusername/RepoAnalyzer.git
+-cd RepoAnalyzer
+-pip install -r requirements.txt
+---
+##ff
